@@ -1,1 +1,2 @@
-Development started for Teraprompt and will maybe be a feature in the future!
+Sinnery will be implementyed soon but for now we have added EXtreme Dos as a implementation!
+Futiure updates will be about sinnery!
