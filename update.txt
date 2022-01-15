@@ -1,2 +1,2 @@
-Sinnery will be implementyed soon but for now we have added EXtreme Dos as a implementation!
-Future updates will be about sinnery and other updates!
+Bugpatch maybe fixed for the auto update not getting to update the main file! 
+let's hope this goes good!
