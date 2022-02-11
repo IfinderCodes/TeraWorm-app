@@ -1,3 +1,3 @@
-Completelly fixed the update, and made a tray icon.
+Removed non-important tabs. Development started on implementing teraEng
 
-Version: 1.0.1.6
+Version: 1.0.1.7
