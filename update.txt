@@ -1,3 +1,5 @@
-Removed non-important tabs. Development started on implementing teraEng
+-System repair tools in development
+  -Nanocore disinfect
+-Fixed TeraPrompt
 
-Version: 1.0.1.7
+Version: 1.0.1.8
