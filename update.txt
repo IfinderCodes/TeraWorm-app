@@ -1,5 +1,4 @@
--System repair tools in development
-  -Nanocore disinfect
--Fixed TeraPrompt
-
-Version: 1.0.1.8
+-Added tools panel
+  -more to come here
+  
+version 1.0.1.9
